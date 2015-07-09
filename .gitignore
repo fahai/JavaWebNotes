@@ -1,0 +1,6 @@
+# ignore .class files
+*.class
+# ignore all files in "build/" directory
+build/
+log/
+etc/
